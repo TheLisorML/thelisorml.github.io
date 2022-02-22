@@ -1,0 +1,281 @@
+ .u-section-1 {
+  background-image: url("images/HDwallpaper_spidermanps4ps4gameshd4ksuperheroespsgames.jpg");
+  background-position: 50% 50%;
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 356px;
+  height: 77px;
+  margin: 60px auto 0;
+}
+
+.u-section-1 .u-list-1 {
+  width: 673px;
+  height: auto;
+  min-height: 60px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-auto-columns: 20%;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-gap: 0px 0px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 10px 8px;
+}
+
+.u-section-1 .u-btn-1 {
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  border-style: none;
+  margin: 0 auto;
+  padding: 8px 29px 8px 27px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 10px 8px;
+}
+
+.u-section-1 .u-btn-2 {
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  border-style: none;
+  margin: 0 auto;
+  padding: 8px 29px 8px 27px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 10px 8px;
+}
+
+.u-section-1 .u-btn-3 {
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: 0 auto;
+  padding: 8px 29px 8px 27px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 10px 8px;
+}
+
+.u-section-1 .u-btn-4 {
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  border-style: none;
+  margin: 0 auto;
+  padding: 8px 29px 8px 27px;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 10px 8px;
+}
+
+.u-section-1 .u-btn-5 {
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  border-style: none;
+  margin: 0 auto;
+  padding: 8px 29px 8px 27px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 800;
+  font-size: 1.25rem;
+  margin: 14px auto 0;
+}
+
+.u-section-1 .u-list-2 {
+  width: 271px;
+  height: auto;
+  min-height: 60px;
+  margin: 0 auto 60px;
+}
+
+.u-section-1 .u-repeater-2 {
+  min-height: 60px;
+  grid-auto-columns: 50%;
+  grid-template-columns: 50% 50%;
+  grid-gap: 0px 0px;
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 10px 8px;
+}
+
+.u-section-1 .u-btn-6 {
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  border-style: none;
+  margin: 0 auto;
+  padding: 8px 29px 8px 27px;
+}
+
+.u-section-1 .u-container-layout-7 {
+  padding: 10px 8px;
+}
+
+.u-section-1 .u-btn-7 {
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  border-style: none;
+  margin: 0 auto;
+  padding: 8px 29px 8px 27px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: repeat(5, 20%);
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+  }
+
+  .u-section-1 .u-repeater-2 {
+    grid-template-columns: repeat(2, 50%);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 511px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 668px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 20% 20% 20% 20% 20%;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 9px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-bottom: 9px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-bottom: 9px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-bottom: 9px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-bottom: 9px;
+  }
+
+  .u-section-1 .u-list-2 {
+    width: 283px;
+  }
+
+  .u-section-1 .u-repeater-2 {
+    grid-template-columns: 50% 50%;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-bottom: 9px;
+  }
+
+  .u-section-1 .u-container-layout-7 {
+    padding-bottom: 9px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 581px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 82px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 621px;
+    min-height: 72px;
+    margin-left: -40px;
+    margin-right: -40px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 9px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 9px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-top: 9px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-top: 9px;
+  }
+
+  .u-section-1 .u-btn-5 {
+    margin-top: 9px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 214px;
+  }
+
+  .u-section-1 .u-list-2 {
+    margin-left: 119px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 731px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 74px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-list-1 {
+    min-height: 148px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-auto-columns: 33.333333333333336%;
+    grid-template-columns: 33.3333% 33.3333% 33.3333%;
+    min-height: 148px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-list-2 {
+    margin-left: auto;
+  }
+}
